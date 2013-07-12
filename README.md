@@ -1,4 +1,4 @@
-Edit Branch 
+Moving forward 
 
-First Commit 
-=======
+New File Structure
+Beginning coding tomorrow 
