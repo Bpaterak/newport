@@ -1,4 +1,3 @@
-Moving forward 
+Coding File
 
-New File Structure
-Beginning coding tomorrow 
+Master is Up to Date (6/12/13) 
