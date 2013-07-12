@@ -1,4 +1,3 @@
 Moving forward 
 
-New File Structure
-Beginning coding tomorrow 
+all code to be done on code branch 
