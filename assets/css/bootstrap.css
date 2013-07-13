@@ -229,6 +229,15 @@ body {
   color: #333333;
   background-color: #ffffff;
 }
+body.landing {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333333;
+  background-color: #fcf6e8;
+}
+
 
 a {
   color: #0088cc;
