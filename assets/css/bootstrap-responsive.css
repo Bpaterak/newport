@@ -8,15 +8,7 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
-.mainb {
-  position: absolute;
-  z-index:15;
-  width:auto;
-  height: auto;
-  top: 50%;
-  left: 50%;
-  
-}
+
 
 .clearfix {
   *zoom: 1;

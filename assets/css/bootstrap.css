@@ -8,6 +8,14 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
+
+.mainb {
+  position: absolute;
+  z-index:1;
+  top: 50%;
+  left: 50%;
+  
+}
 .clearfix {
   *zoom: 1;
 }
