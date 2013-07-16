@@ -8,14 +8,50 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
-
-.mainb {
-  position: absolute;
-  z-index:1;
-  top: 50%;
-  left: 50%;
+/*!
+ *my styles
+ *
+ *brandon P
+ *
+ */
+ 
+.mainnav {
+  position: relative;
+  list-style: none;
+  
   
 }
+
+.mainnav ul {
+  list-style:none;
+  text-align: center;
+}
+
+.mainnav li {
+  display: inline;
+  padding: .5em .5em .5em .5em;
+
+}
+  
+
+body.landing {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333333;
+  background-color: #fcf6e8;
+  
+}
+/*!
+ *
+ *End of my styles
+ *
+ *Begin bootstrap
+ *
+ */
+ 
+
 .clearfix {
   *zoom: 1;
 }
@@ -237,15 +273,6 @@ body {
   color: #333333;
   background-color: #ffffff;
 }
-body.landing {
-  margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 20px;
-  color: #333333;
-  background-color: #fcf6e8;
-}
-
 
 a {
   color: #0088cc;
