@@ -14,11 +14,16 @@
  *brandon P
  *
  */
- 
+.mnav {
+  position: fixed;
+  top: 44%;
+  left: 37%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
 .mainnav {
-  position: relative;
-  list-style: none;
-  
+  position: fixed;
   
 }
 
@@ -30,7 +35,6 @@
 .mainnav li {
   display: inline;
   padding: .5em .5em .5em .5em;
-
 }
   
 
@@ -41,8 +45,9 @@ body.landing {
   line-height: 20px;
   color: #333333;
   background-color: #fcf6e8;
-  
 }
+
+
 /*!
  *
  *End of my styles
