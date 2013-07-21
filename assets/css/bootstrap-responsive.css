@@ -35,7 +35,8 @@
 
 .mainnav li {
   display: inline;
-  padding: .5em .5em .5em .5em;
+  padding: .7em .7em .7em .7em;
+  
 }
   
 
@@ -44,8 +45,8 @@ body.landing {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: #333333;
-  background-color: #fcf6e8;
+  color: #313030;
+  background-image:url('../img/bg/bg1.jpg');
 }
 
 
