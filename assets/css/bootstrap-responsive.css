@@ -14,10 +14,20 @@
  *brandon P
  *
  */
+ 
+ html {
+   background-image:url('../img/bg/bg1.jpg');
+   background-repeat:no-repeat;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  min-height: 100%;
+}
 .mnav {
   position: fixed;
-  top: 44%;
-  left: 37%;
+  top: 45%;
+  left: 43%;
   margin-top: -50px;
   margin-left: -100px;
 }
@@ -38,6 +48,7 @@
   padding: .7em .7em .7em .7em;
   
 }
+
   
 
 body.landing {
@@ -45,8 +56,7 @@ body.landing {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: #313030;
-  background-image:url('../img/bg/bg1.jpg');
+  
 }
 
 
