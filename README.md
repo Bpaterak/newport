@@ -1,3 +1,6 @@
+back to work 
+(8/19/13)
+
 new sketches, working dynamic, picked js. for drawer, menu styles/ finish code today begin mobile code tomorrow
 
 (7/15/13 6:53)
