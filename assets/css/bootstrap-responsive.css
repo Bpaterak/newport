@@ -24,6 +24,7 @@
   background-size:cover;
   min-height: 100%;
 }
+
 .mnav {
   position: fixed;
   top: 45%;
@@ -59,6 +60,33 @@ body.landing {
   
 }
 
+
+/*design.html styles
+ */
+.dmnav {
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
+.dmainnav {
+  position: relative;
+  list-style: none;
+  
+}
+
+.dmainnav ul {
+  list-style:none;
+  text-align: center;
+}
+
+.dmainnav li {
+  display: inline;
+  padding: .7em .7em .7em .7em;
+  
+}
 
 /*!
  *
